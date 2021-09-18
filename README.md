@@ -23,5 +23,6 @@ GET /api/products: List all products
 POST /api/product: Registers a new product
 
 Authentication method: Basic auth
+
 username: admin password: admin
 
